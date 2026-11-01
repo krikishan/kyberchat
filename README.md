@@ -1,4 +1,4 @@
-# KyberChat — Secure Multi-User Communication Platform (College Project)
+# KyberChat — Secure Multi-User Communication Platform 
 
 Post-quantum-informed secure chat: ML-KEM-768 key establishment → HKDF session-key
 derivation → AES-256-GCM message/file encryption, with an RSA-3072 classical comparison,
